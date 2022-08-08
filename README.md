@@ -1,9 +1,9 @@
 # Coursera Certificate
 
 ## Software Development Lifecycle
-![Software Development Lifecycle Certificate](https://github.com/thanhty67/Courseracertificate/blob/main/Coursera%20UZTJ9TFPESRE.pdf)
+![Software Development Lifecycle Certificate](https://github.com/thanhty67/Coursera-certificate/blob/main/SoftwareDevelopmentLifeCycle.png)
 
 
 ## Web Design for Everybody: Basics of Web Development & Coding
 ![Web Design for Everybody: Basics of Web Development & Coding
- Certificate](https://github.com/thanhty67/Coursera-certificate/blob/main/Coursera%20RXYA44365VCW.pdf)
+ Certificate](https://github.com/thanhty67/Coursera-certificate/blob/main/WebDesign.png)
